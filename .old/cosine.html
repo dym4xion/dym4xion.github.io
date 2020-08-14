@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Computer Operating Systems and Intermediate Networking</title>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="icon" href="media/pentagram.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <nav id="navMenu"></nav>
+  <nav id="uniWorkMenu"></nav>
+  <article class="unit-article">
+  <h1>Computer Operating Systems and Intermediate Networking</h1>
+  <section>
+    <h2>Week 1</h2>
+    <p>
+      The first lecture of the unit focused on both: the content overview of the
+      unit; and recounted concepts studied last year, surrounding the nature and characteristics of
+      operating systems. This included briefly looking at: OS structure within a computer;
+      CPU organisation; registers; assembly language; user and kernal modes; interrupts;
+      and the position of interrupt handlers within hardware and software.
+    </p>
+    <p>
+      The practical tutorial focused on: how to maintain lab books; setting up and
+      running a program in Netbeans; and running java programs from the command line, using
+      args.
+    </p>
+    <p>It may help to think of this unit as a hybrid of the NETFUN and CAR units
+      from last year.
+    </p>
+  </section>
+  <section>
+    <h2>Week 2</h2>
+    <p>
+      In the lecture this week we looked at Concurrency and Threads. We looked at
+      the scope of concurrent programming and the difference between true parallelism
+      and multi-tasking. As well as this, we looked at some of the intricacies of
+      concurrent programming such as:
+      <a href="https://en.wikipedia.org/wiki/Nondeterministic_programming">Non-determinism</a>,
+      interference,
+      and <a href="https://en.wikipedia.org/wiki/Race_condition">race conditions</a>.
+      And we began to look at how concurrent programming issues can be prevented
+      with critical sections of code and mutual exclusions.
+    </p>
+    <p>
+      In the tutorial this week we looked at Objects and Fields in Java. Much in the
+        same way as we did in this week's ADPROC tutorial, we looked at class creation
+        and writing methods for classes as well as static and instance variables.
+        As I tried to maintain my knowledge of Java over the Summer, the work here was
+        not too difficult. It's important to remember the significance and the implications
+        of static variables.
+    </p>
+
+  </section>
+  <section>
+    <h2>Week 3</h2>
+    <p>
+      In this week's lecture and practical session, we looked at the uses and implications
+      of multi-threaded programming, to explore ideas crucial to understanding parallelism
+      and multi-tasking. We also looked at the ramifications of running multiple processes
+      at the same time and how they can be resolved via Mutual Exclusion.
+    </p>
+    <p>
+      Insightful reading topics could include:
+      <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Peterson%27s_algorithm">Peterson's Algorithm</a> </li>
+        <li><a href="https://en.wikipedia.org/wiki/Semaphore_(programming)">Semaphores</a> </li>
+      </ul>
+    </p>
+    <p>In the lab session we investigated threads and race conditions.</p>
+  </section>
+  <section>
+    <h2>Week 4</h2>
+    <p>In the lecture this week, we looked at synchronisation and deadlock. In general
+    synchronisation, threads often wait for a condition to be satesfied by another
+    thread to continue operating. This can lead to a resource deadlock. Deadlocks
+    can be anticipated through modelling with 'resource allocation graphs'.</p>
+    <figure>
+      <a href="https://github.com/angrave/SystemProgramming/wiki/Deadlock,-Part-1:-Resource-Allocation-Graph"> <img src="https://camo.githubusercontent.com/60802e88edd90e5b33ad6e4c996c3932a22c20d4/687474703a2f2f692e696d6775722e636f6d2f366475713050442e706e67" alt=" resource allocation graphs"> </a>
+      <figcaption>Resource Allocation Graph Demonstrating Deadlock.</figcaption>
+    </figure>
+    <p>We also looked at how deadlocks can be detected, recovered from, and altogether avoided.</p>
+    <p>In the practical session we looked at Mutually Exclusive methods of programming, to
+       further what we looked at last week</p>
+  </section>
+  </article>
+
+
+
+  <script src="scripts/script.js"></script>
+</body>
+
+</html>

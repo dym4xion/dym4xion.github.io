@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Data Structures and Algorithms</title>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="icon" href="media/pentagram.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <nav id="navMenu"></nav>
+  <nav id="uniWorkMenu"></nav>
+
+  <article class="unit-article">
+    <h1>Data Structures and Algorithms</h1>
+    <section>
+      <h2>Week 1</h2>
+      <h3>Workshop 1 - Data Structures and Algorithms</h3>
+      <p>
+        The first workshop introduced some core concepts to the unit. We looked
+        at: what a data structure is defined as <strong>(a collection of elements, a set of
+        associations or relationships involving a collection)</strong>;
+        the classification of data structures <strong>(linear, hierarchical, graph, set)</strong>;
+        classification of algorithms <strong>(brute force, divide and conquer,
+        backtracking, greedy)</strong>; the applications of different algorithms
+        abstract data types (ADTs) <strong>(stack, queue)</strong>; and the applications of ADTs.
+      </p>
+      <h3>Workshop 2 - Complexity of Algorithms</h3>
+      <p>
+        This workshop initiated looking at 'Tools of the Trade', in that we explored
+        <a href="https://en.wikipedia.org/wiki/Time_complexity" target="_blank">algorithm complexity</a>
+        and <a href="https://en.wikipedia.org/wiki/Big_O_notation" target="_blank">Big O notation</a>.
+        We compared the efficiency of algorithms and approached how the efficiency
+        of algorithms can be determined <strong>(loops are key!)</strong>.
+      </p>
+      <img src="media/time-complexity.png" alt="Time complexity graph.">
+      <h3>Practical Tutorial</h3>
+      <p>
+        The practical tutorial looked closer at the application of algorithms on
+        an array and how one may approach attempt to search for a value in an array.
+        An important consideration may be: does using a sorting algorithm effect
+        the array in an undesirable/problem inappropriate way?
+      </p>
+    </section>
+    <section>
+      <h2>Week 2</h2>
+      <h3>Workshop 3 - Iterative Algorithms and Efficiency</h3>
+      <p>
+        In the third workshop we looked at iterative algorithms and their efficiency.
+        This included looking at: Selection Sort, Bubble Sort, Insertion Sort, Binary
+        Search, and Linear Search. As I have previous met these algorithms and <a href="https://github.com/dym4xion/DSALG-prep-algorithms" target="_blank">implemented</a>
+        them in Java and Python, the content was not too difficult. Check out <a href="http://bigocheatsheet.com/" target="">this</a>
+        cool cheat sheet for the time complexity of different algorithms.
+      </p>
+      <figure>
+        <img src="media/time-complexity-chart.png" alt="Time complexity chart">
+        <figcaption>Taken from <a href="http://bigocheatsheet.com/" target="_blank">http://bigocheatsheet.com/</a>.</figcaption>
+      </figure>
+      <h3>Workshop 4 - Recursive Algorithms</h3>
+      <p>
+        In the fourth workshop we looked at recursion and recursive algorithms. We
+        looked at drawing tracing diagrams, tail end recursion and situations that
+        should and should not use recursion (see determining nth Fibonacci number).
+      </p>
+      <p>Questions to ask to determine if the recursive solution is appropriate:</p>
+      <ul>
+        <li>Is the algorithm/data structure naturally suited to recursion?</li>
+        <li>Is the recursive solution shorter and easier to understand?</li>
+        <li>Does the recursive solution run in acceptable time and/or space limits?</li>
+      </ul>
+      <h3>Practical Tutorial</h3>
+      <p>
+        In the tutorial this week we discussed the answers to the exercises we were
+        set the previous week. An important take away from this is to take your time
+        when determining the overall time complexity of an algorithm featuring many
+        different types of loops. <a href="media/algorithm-efficiency.pdf" target="_blank">Pages 10 and 11 in the booklet make for a good guide
+        in regard to this. </a>
+      </p>
+    </section>
+    <section>
+      <h2>Week 3</h2>
+      <h3>Workshop 5 - Recursive algorithms and Efficiency</h3>
+      <p>
+        Across the two sessions dedicated to this Workshop, we looked at: Mergesort,
+        Quicksort, Binary Search, and Backtracking algorithms. It would be beneficial
+        to try to implement Mergesort in Python and read up on the efficiency of recursive
+        algorithms.
+      </p>
+      <p>
+        I would like to further my understanding in the implementation of backtracking algorithms.
+        This could be done by investigating implementations of: Maze Route Finding,
+        The Eight Queen's Problem, and The Knight's Tour.
+      </p>
+      <p>
+        It is imperative to ensure confidence in ascertaining the efficiency of
+        recursive algorithms.
+      </p>
+      <h3>Practical Tutorial</h3>
+      <p>
+        The practical tutorial looked at exercises set from last week which practiced
+        working out the output produced by various recursive algorithms. The exercises
+        were not too diffcult, however, an important take away would be to be mindful
+        of all of the operations surrounding how recursive calls are returned, ensuring
+        the calls are <em>correctly</em> separated with brackets.
+      </p>
+    </section>
+    <h2>Week 4</h2>
+    <h3>Workshop 6 - Linear Data Structures</h3>
+    <p>This week we explored linear data structure through looking at Singly Linked Lists,
+       Doubly Linked Lists, SkipLists, and the operations that can surround them.</p>
+    <p>Remember, if we know the position of the item we want to operate on, the efficiency is:
+    <ul>
+      <li>Linked Lists: Reading O(n), Insertion O(1), Deletion O(1).</li>
+      <li>Arrays: Reading O(1), Insertion O(n), Deletion O(n).</li>
+    </ul> </p>
+    <p>It's imporant the think about what types of Abstract Data Types (stacks and queues)
+       a Data Structure can efficiently model.</p>
+  </article>
+
+
+
+  <script src="scripts/script.js"></script>
+</body>
+
+</html>

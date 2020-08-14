@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>3D Computer Graphics and Animation</title>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="icon" href="media/pentagram.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <nav id="navMenu"></nav>
+  <nav id="uniWorkMenu"></nav>
+  <article class="unit-article">
+    <h1>3D Computer Graphics and Animation</h1>
+    <section>
+      <h2>Week 1</h2>
+      <p>
+        In the first week's lecture we looked at some of the topics we are covering
+        throughout the unit, as well as some of the applications of 3D computer
+        graphics and animation.
+      </p>
+      <p>
+        In the practical tutorial, we were introduced to the basics of modelling in 3D Studio
+        Max, including the 3DSM UI and working with primatives.
+      </p>
+      <img src="media/3dcgaa-w1-primatives.PNG" alt="Primatives In 3DSM">
+      <img src="media/3dcgaa-w1-primatives-boolean.PNG" alt="Boolean operations on primatives in 3DSM">
+    </section>
+    <section>
+      <h2>Week 2</h2>
+      <p>
+        In the second week's lecture we covered content that looked at the graphics
+        pipeline and coordinate systems. We also looked at Graphics APIs, which include:
+        the Standard API, OpenGL, WebGL, and Direct 3D.
+      </p>
+      <p>
+        We learned that in 3D modelling, to generate an image we need:
+        <ul>
+          <li>Object models.</li>
+          <li>A view platform: position and orientation.</li>
+          <li>Projection: Light rays, tracing paths.</li>
+        </ul>
+      </p>
+      <p>
+        We also looked at projections, both: orthographic and perspective, as well
+        as persective distortions and the roles of the viewing window/frustrum.
+      </p>
+      <p>
+        An important take-away from this lecture included the prodedure of the
+        graphics pipeline. One way to describe the graphics pipeline is the process
+        of: Local coordinate systems --&gt; World coordinate systems --&gt; Camera
+        coordinate systems --&gt; 3D screen space --&gt; Orthographic projection.
+      </p>
+      <p>
+        The coordinate systems are used to provide the imformation enable operations
+        to be performed on models. It applies a map to the 3D world to define positions
+        and orientations.
+      </p>
+      <p>
+        In the practical session we looked at Compound Objects and experimented
+        with them in 3Ds Max.
+		<img src="media/chair.PNG" alt="Chair modelled in 3DSM">
+		<img src="media/uop-logo.PNG" alt="UOP Logo modelled in 3DSM">
+		<img src="media/torus-box.PNG" alt="Box with a semi-torus hollowing modelled in 3DSM">
+      </p>
+    </section>
+    <section>
+      <h2>Week 3</h2>
+      <p>
+        In this week's lecture we looked at modeling using geometric priamtives
+        and volume based modelling. We explored both 'hierarchical modelling' and
+        'constructive solid geometry' (CSG) methods of using primatives.
+      </p>
+      <p>
+        The hierarchical modelling method works by combining several primatives
+        through transformations into one linked object, whereas the CSG method works
+        by using boolean operations on primatives.
+      </p>
+      <p>
+        When looking at volume based modelling, we explored the Octree method which
+        works by evaluating: world space, tessellation and labelling.
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Octree">
+        <img src="media/octree.png" alt="Octree Diagram">
+      </a>
+      <p>
+        In our tutorial session we explored Loft Objects in 3D Studio Max. As a
+        result we produced models of curtains and an object with twists.
+      </p>
+      <img src="media/curtains.PNG" alt="Modelled curtains">
+      <img src="media/coil.PNG" alt="Twisted object">
+    </section>
+    <section>
+      <h2>Week 4</h2>
+      <p>In the lecture this week, we looked at Modelling with Polygon Meshes. This
+      included looking at: vector and surface normals, defining a polygon mesh, issues
+      with resolutions and the aquisition of polygon mesh models.</p>
+      <p>A polygon mesh is a connected collection of polygonal <em>facets</em> along
+      with directional information. </p>
+      <p>In the practical session we looked at Modelling with Meshes in 3DSM to create
+         various 3D shapes. The primary focus was to model an apple, but with the spare
+         time I had, I had fun with bitmaps in the material editor and modelled a
+         Sierpinski Pyramid with my newfound knowledge of snapping to vertices.</p>
+         <img src="media/wedge.PNG" alt="Wedge">
+         <img src="media/apple.PNG" alt="Apple">
+         <img src="media/apples.PNG" alt="Apples">
+         <img src="media/sierpinski.PNG" alt="Sierpinski Pyramid">
+    </section>
+  </article>
+
+
+
+  <script src="scripts/script.js"></script>
+</body>
+
+</html>

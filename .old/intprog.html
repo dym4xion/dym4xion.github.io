@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Introduction to Programming</title>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="icon" href="media/pentagram.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <nav id="navMenu"></nav>
+  <nav id="uniWorkMenu"></nav>
+
+
+  <article class="unit-article">
+    <h1>Introduction to Programming</h1>
+    <p>
+      In this unit I exlored fundamental programming concepts such as data types,
+      classes and code quality while utilising the Python and Java programming
+      languages.
+    </p>
+
+    <section>
+      <h2>Python Coursework</h2>
+      <h3>The Task</h3>
+      <p>
+        For the coursework involving Python, we were tasked with programming a
+        'Patchwork Sampler' using the
+        <a href="http://mcsp.wartburg.edu/zelle/python/graphics.py" target="_blank">John Zelle graphics package</a>
+        as defined by the
+        <a href="media/pycoursework.pdf" target="_blank">given specification</a>.
+      </p>
+      <p>
+        The primary requirements for the Patchwork Sampler were to:
+        <ul>
+          <li>Accept user input for grid sizes 5x5, 7x7, 9x9 and 11x11.</li>
+          <li>Accept user input for three unique colours from a range of eight.</li>
+          <li>Draw the patches in the given pattern.</li>
+        </ul>
+      </p>
+      <p>
+        Additional features that we were encouraged to implement include:
+        <ul>
+          <li>User interaction to swap the position of two tiles by clicking
+          each of them.</li>
+          <li>User interation to swap the pattern of any tile but keep the colour
+          by double clicking a single tile.</li>
+        </ul>
+      </p>
+
+      <h3>Execution</h3>
+      <p>
+        <a href="media/patchwork.py">Here</a> is the code that forms the Patchwork
+        Sampler. It is dependant on the graphics.py file linked above.
+      </p>
+      <p>
+        The program runs as expected and takes user input from the shell for the
+        size of the grid and the three chosen colours.
+      </p>
+      <img src="media/patchwork-shell.PNG" alt="Patchwork shell inputs">
+      <img src="media/patchwork-window.PNG" alt="Patchwork Window">
+      <h3>Improvements</h3>
+      <p>
+        One fatal error that can occur during runtime is: if a non-integer value
+        is input when the grid size is requested. This is because the code I wrote
+        attempts to convert the input string into and integer before checking
+        whether the input string is valid. This could be rectified with a simple
+        if else statement.
+      </p>
+      <p>
+        A minor issue with the way I drew the patchwork design is that the initial
+        circle patches in the bottom right-hand-side of the window should be consistanly
+        3x3 regardless of patchwork size, however I misread the brief assumed the
+        circle section would grow with the window.
+      </p>
+      <img src="media/patch-win-7.PNG" alt="7x7 Patchwork Window">
+      <img src="media/patch-win-9.PNG" alt="9x9 Patchwork Window">
+      <img src="media/patch-win-11.PNG" alt="11x11 Patchwork Window">
+    </section>
+
+    <section>
+      <h2>Java Coursework</h2>
+      <h3>The Task</h3>
+      <p>
+        For our Java based coursework, we were tasked with writing classes that could
+        emulate a pizza ordering system. We were given template and starter classes
+        which we needed to build off from to develop a functioning program. Code
+        quality and design were also assessed.
+      </p>
+      <p>
+        The brief for the coursework can be found <a href="media/javacoursework.pdf" target="_blank">here</a>.
+      </p>
+      <p>
+        The primary objectives were to:
+        <ul>
+          <li>Take user input which considers the size, crust type, sauce and toppings of the pizza.</li>
+          <li>Enter information for upto six pizzas.</li>
+          <li>Display the pizzas within a window using the Canvas package.</li>
+          <li>Consider the total cost of the order.</li>
+          <li>Make use of Javdoc commenting.</li>
+        </ul>
+      </p>
+      <p>
+        We were also encouraged to:
+        <ul>
+          <li>Enable the user to modify or remove any pizza.</li>
+          <li>Enable the user to enter more than six pizzas, but maintaining the number of pizzas per window to six.</li>
+        </ul>
+      </p>
+
+      <h3>Execution</h3>
+      <p>
+        The program generally runs well and input validation is implemnted where
+        needed.
+      </p>
+      <p>
+        Find the files used in my Java coursework <a href="java-cw-files.html">here</a>.
+      </p>
+
+      <figure>
+        <a href="media/java-cw/java-cw-console-input.txt" target="_blank"><img src="media/java-cw/1-pizza.PNG" alt="Pizza Ordering System Window"></a>
+        <figcaption>Click on the image to open the console inputs.</figcaption>
+      </figure>
+
+      <figure>
+        <img src="media/java-cw/6-pizza.PNG" alt="Pizza ordering system with six displayed pizzas">
+        <figcaption>Pizza ordering system with six displayed pizzas</figcaption>
+      </figure>
+
+      <h3>Improvements</h3>
+      <p>
+        One way in which my program could be improved would be to accomodate for
+        users who desire no toppings. This was not an option I considered until
+        the program was assessed.
+      </p>
+      <p>
+        Another instance in which the program could have been improved is to limit
+        the number of windows displaying pizzas to one, regardless of the number
+        of pizzas input. The user would then change between a series of 'screens'
+        which would each display upto six pizzas.
+      </p>
+
+    </section>
+  </article>
+
+  <script src="scripts/script.js"></script>
+</body>
+
+</html>

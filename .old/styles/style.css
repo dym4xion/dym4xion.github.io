@@ -1,0 +1,191 @@
+#index {
+  background: url(../media/index-bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+#index footer {
+  bottom: 0;
+  display: block;
+  margin: 0.5em;
+  position: fixed;
+  color: white;
+}
+
+body {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  margin: 0 auto;
+  max-width: 80%;
+  width: 65%;
+  text-align: justify;
+  background: #e5e5e5;
+  color: black;
+}
+
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 200%;
+}
+
+a {
+  color: #c4094b;
+}
+
+a:hover {
+  background: #c4094b;
+  color: white;
+}
+
+nav a {
+  padding: 5px;
+}
+
+figure {
+  border: 2px black;
+  border-style: dotted;
+  display: inline-block;
+}
+
+figure img {
+  width: 40vw;
+  height: auto;
+}
+
+.big-fig-img {
+  height: 80vh;
+  width: auto;
+}
+
+#navMenu, #blogNavMenu {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+  display: inline-block;
+  background-color: #e5e5e5;
+  align-items: center;
+  align-self: center;
+  padding: 0.5em;
+}
+
+#uniWorkMenu {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  font-variant: small-caps;
+  position: fixed;
+  top: 10px;
+  left: 0px;
+  height: 100%;
+  text-align: center;
+}
+
+#persWorkMenu {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  font-variant: small-caps;
+  position: fixed;
+  top: 10px;
+  left: 0px;
+  height: 100%;
+  text-align: center;
+}
+
+img {
+  margin: 4px;
+  border: black 2px solid;
+  height: 40vh;
+  width: auto;
+}
+
+
+
+.img-100 {
+  width: 100%;
+  height: auto;
+}
+
+.img-50 {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+object {
+  margin: 1em;
+}
+
+.wide-pdf {
+  width: 100%;
+  height: 80vh;
+}
+
+.tall-pdf {
+  width: 60%;
+  height: 80vh;
+  margin: 0 auto;
+  display: block;
+}
+
+.uni-work-block{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.uni-work-blocks a{
+  display: inline-block;
+  flex-grow: 1;
+  align-self: stretch;
+  text-align: center;
+  text-decoration: none;
+  width: 45%;
+  height: 2em;
+  padding: 0.5em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  border: 2px black solid;
+  text-transform: uppercase;
+  vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body > .blog-entry {
+  width: 100%;
+}
+
+.blog-entry {
+  border: double black 4px;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+.unit-article{
+  border: black 1px;
+  border-style: solid;
+  padding: 0.5em;
+}
+
+footer{
+  margin: 2em;
+}
+
+@media (max-width: 850px) {
+  body{
+    width: 98%;
+  }
+  #uniWorkMenu{
+    display: none;
+  }
+  #persWorkMenu{
+    display: none;
+  }
+  #navMenu{
+    font-size: 150%;
+  }
+}

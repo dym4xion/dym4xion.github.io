@@ -1,0 +1,36 @@
+# '>>>' indicates user input 
+
+Enter action:
+New Pizza: Type 'N'.
+Remove Pizza: Type 'R'.
+Modify Pizza: 'M'.
+Quit: 'Q'.
+>>>n
+
+Enter Pizza Size.
+Enter: '10' for Small,
+Enter: '12' for Medium and
+Enter: '14' for Large. 
+>>>14
+You have chosen a 14 inch pizza.
+
+Enter crust type (Deep Pan, Thin Crust, Stuffed Crust): 
+>>>deep pan
+You have chosen a pizza that has a deep pan.
+
+Change sauce from Tomato to BBQ? (Y/N): 
+>>>y
+You have chosen a pizza that has BBQ sauce.
+
+Number of topping types (1/2): 
+>>>2
+You have chosen to have 2 topping type(s).
+
+Enter Topping 1 (Prawn / Jalapeno Slice) [5 pieces]: 
+>>>prawn
+
+Enter Topping 2 (Prawn / Jalapeno Slice) [4 pieces]: 
+>>>jalapeno slice
+You have chosen prawn as your first topping, and jalapeno slice as your second topping.
+
+Total Order Price: £17.89
