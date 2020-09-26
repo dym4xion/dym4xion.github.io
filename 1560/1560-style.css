@@ -1,0 +1,49 @@
+body {
+    background: black;
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navList li {
+    margin-bottom: 1em;
+}
+
+img, video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    border-bottom: white 1px solid;
+}
+
+@media screen and (orientation: portrait){
+    img, video {
+        width: 100%;
+    }
+    body {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+@media screen and (orientation: landscape){
+    img, video {
+        width: 100%;
+    }
+    body {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
