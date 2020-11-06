@@ -28,6 +28,16 @@ THE BLUE LAMP - 1950
 ANATOMY OF A MURDER - 1959
 KRAMER VS. KRAMER - 1979
 
+# YOUSSEF CHAHINE #
+CAIRO STATION - 1958
+SALADIN - 1963
+ALEXANDRIA... WHY? - 1979
+
+# Natural Disaster Films #
+San Francisco - 1936
+The Night the World Exploded - 1957
+Crack in the World - 1965
+
 # Eisenstein #
 October (10 Days That Shook the World) - 1928
 Ivan the Terrible, Part 1 - 1944
@@ -124,7 +134,7 @@ Dark Star - 1974
 Assualt on Precinct 13 - 1976
 Eyes of Laura Mars
 
-# Robert Redford Films #
+# Robert Redford #
 The Property is Condemmed - 1966
 All the President's Men - 1976
 Ordinary People - 1980
@@ -163,11 +173,6 @@ A Diary of Chuji’s Travels - 1927
 The Wild One - 1953
 On the Waterfront - 1954
 Last Tango in Paris - 1972
-
-# Youssef Chahine #
-Cairo Station - 1958
-Saladin - 1963
-Alexandria... Why? - 1979
 
 # Ingmar Bergman #
 Summer with Monika - 1953
@@ -209,7 +214,7 @@ Suspense - 1913
 The People vs. John Doe - 1916
 The Hand That Rocks the Cradle - 1917
 
-# Kinuyo Tanaka Vol. I#
+# Kinuyo Tanaka #
 Love Letter - 1953
 The Moon Has Risen - 1955
 The Eternal Breasts - 1955
@@ -238,11 +243,6 @@ Contempt - 1963
 Lady from Shanghai - 1947
 Touch of Evil - 1958
 The Trial - 1962
-
-# Natural Disaster Films #
-San Francisco - 1936
-The Night the World Exploded - 1957
-Crack in the World - 1965
 
 # Natural Disaster Films II #
 The Poseidon Adventure - 1972
@@ -839,7 +839,10 @@ First of the Few - 1942
 Battle of Britain - 1969
 Tora! Tora! Tora! - 1970
 
-
+# Youssef Chahine II #
+The Blazing Sun - 1954
+Jamila, the Algerian - 1970
+Auliban, the Seller of Rings - 1973
 
 
 
@@ -1378,7 +1381,10 @@ Love in the Afternoon - 1957
 The Nun's Story - 1959
 The Unforgiven - 1960
 
-
+# Youssef Chahine III #
+Dark Waters - 1956
+The Land - 1969
+Return of the Prodigal Son - 1978
 
 
 
@@ -2577,7 +2583,6 @@ The Cranes Are Flying - 1957
 
 
 
-
 # BFI Southern Gothic List IV #
 Reflections in a Golden Eye - 1967
 The Heart is a Lonely Hunter - 1968
@@ -2592,17 +2597,12 @@ Carry On Emmannuelle - 1978
 The Sting - 1973
 Annie Hall - 1977
 The Deer Hunter - 1978
-
-# Apocalypse Films #
-
-
-
 --- fin ---
 
 # Uncategorised ideas #
 High Noon - 1952
 The Searchers - 1956
 Sacco & Vanzetti - 1971
-Sergio Corbucci
-Sergio Sollima
-Kobaiyashi
+Sergio Corbucci films
+Sergio Sollima films
+Kobaiyashi films
