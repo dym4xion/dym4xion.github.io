@@ -29,14 +29,15 @@ img, video {
     font-variant: small-caps;
     margin-left: 10%;
     margin-right: 10%;
-    max-height: 10vh;
+    height: 5vh;
+    text-align: center;
 }
 
 #home-nav{
     list-style-type: none;
     margin-left: 10%;
     margin-right: 10%;
-    height: 90vh;
+    height: 80vh;
 }
 #home-nav a{
     display: block;
@@ -45,7 +46,8 @@ img, video {
     /*text-align: center;*/
     /*border: solid black 1px;*/
     font-size: large;
-    height: 15%;
+    height: 20%;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
 #home-nav a:hover{
