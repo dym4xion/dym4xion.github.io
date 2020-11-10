@@ -35,8 +35,8 @@ img, video {
 
 #home-nav{
     list-style-type: none;
-    margin-left: 10%;
-    margin-right: 10%;
+/*    margin-left: 10%;
+    margin-right: 10%;*/
     height: 80vh;
 }
 #home-nav a{
@@ -47,8 +47,9 @@ img, video {
     /*border: solid black 1px;*/
     font-size: large;
     height: 20%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin:0.5em;
+/*    margin-top: 0.5em;
+    margin-bottom: 0.5em;*/
 }
 #home-nav a:hover{
     background: black;
@@ -72,6 +73,10 @@ img, video {
     article {
         padding-left: 10%;
         padding-right: 10%;
+    }
+    #home-nav {
+        margin-left: 10%;
+        margin-right: 10%;
     }
 }
 

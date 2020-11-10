@@ -33,11 +33,6 @@ CAIRO STATION - 1958
 SALADIN - 1963
 ALEXANDRIA... WHY? - 1979
 
-# Natural Disaster Films #
-San Francisco - 1936
-The Night the World Exploded - 1957
-Crack in the World - 1965
-
 # Eisenstein #
 October (10 Days That Shook the World) - 1928
 Ivan the Terrible, Part 1 - 1944
@@ -2583,6 +2578,9 @@ The Cranes Are Flying - 1957
 
 
 
+
+
+
 # BFI Southern Gothic List IV #
 Reflections in a Golden Eye - 1967
 The Heart is a Lonely Hunter - 1968
@@ -2606,3 +2604,7 @@ Sacco & Vanzetti - 1971
 Sergio Corbucci films
 Sergio Sollima films
 Kobaiyashi films
+Natural Disaster Films
+San Francisco - 1936
+The Night the World Exploded - 1957
+Crack in the World - 1965
