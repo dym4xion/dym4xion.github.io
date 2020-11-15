@@ -33,16 +33,130 @@ CAIRO STATION - 1958
 SALADIN - 1963
 ALEXANDRIA... WHY? - 1979
 
-# Eisenstein #
-October (10 Days That Shook the World) - 1928
-Ivan the Terrible, Part 1 - 1944
-Ivan the Terrible, Part 2 - 1945
+# EISENSTEIN #
+ALEXANDER NEVSKY - 1938
+IVAN THE TERRIBLE, PART 1 - 1944
+IVAN THE TERRIBLE, PART 2 - 1945
 
-# Women at Work #
-Norma Rae - 1979
-9 to 5 - 1980
-Coal Miner's Daughter - 1980
-Millions Like Us???
+# Agnes Varda #
+La Pointe Courte - 1955
+Cleo from 5 to 7 - 1962
+Le Bonheur - 1965
+
+# Ralph Bakshi #
+Heavy Traffic - 1973
+Wizards - 1977
+The Lord of the Rings - 1978
+
+# Chantal Akerman #
+Je Tu Il Elle - 1974
+Jeanne Dielman - 1975
+The Meetings of Anna - 1978
+
+# Yasujiro Ozu #
+Late Spring - 1949
+Tokyo Story - 1953
+An Autumn Afternoon - 1962
+
+# Vera Chytilová #
+Something Different - 1963
+Daisies - 1966
+Panelstory - 1980
+
+# John Carpenter #
+Dark Star - 1974
+Assualt on Precinct 13 - 1976
+Eyes of Laura Mars - 1978
+
+# Larisa Shepitko #
+Heat - 1963
+You and Me - 1971
+The Ascent - 1977
+
+# Long Films #
+Napoleon - 1927
+The Deluge - 1974
+1900 - 1976
+
+# 'Long' Films #
+The Long, Hot Summer - 1958
+The Long Goodbye - 1973
+The Long Good Friday - 1980
+
+# Mimi Wertmuller #
+Love & Anarchy - 1973
+Swept Away - 1974
+Seven Beauties - 1975
+
+# Tarkovsky #
+Ivan's Childhood - 1962
+Andrei Rublev - 1966
+Stalker - 1979
+
+# Ida Lupino #
+The Hitch-Hiker - 1953
+The Bigamist - 1953
+The Trouble with Angels - 1966
+
+# Marlon Brando #
+The Wild One - 1953
+On the Waterfront - 1954
+Last Tango in Paris - 1972
+
+# Liliana Cavani #
+Galileo - 1968
+The Night Porter - 1974
+Beyond Good and Evil - 1977
+
+# Ingmar Bergman #
+Summer with Monika - 1953
+Wild Strawberries - 1957
+Persona - 1966
+
+# Kira Muratova #
+Our Honest Bread - 1964
+Brief Encounters - 1967
+The Long Farewell - 1971
+
+# Federico Fellini #
+I Vitelloni - 1953
+La Strada - 1954
+Nights of Cabiria - 1957
+
+# Marguerite Duras #
+India Song - 1975
+The Lorry - 1977
+Le navire Night - 1979
+
+# Kenji Mizoguchi #
+The Life of Oharu - 1952
+Ugetsu - 1953
+Sancho the Bailiff - 1954
+
+# Shirley Clarke #
+The Connection - 1961
+The Cool World - 1963
+Portrait of Jason - 1967
+
+# Vincent Price #
+The House of Wax - 1953
+The Fly - 1958
+House on Haunted Hill - 1959
+
+# Germaine Dulac #
+Heart of an Actress - 1924
+The Devil in the City - 1925
+Princess Mandane - 1928
+
+# Tarkovsky II #
+The Mirror - 1974
+The Steamroller and the Violin - 1961
+Beregis, zmey! - 1979
+
+# Márta Mészáros #
+Riddance - 1973
+Adoption - 1975
+Women - 1977
 
 # Earlier Woo #
 The Dragon Tamers - 1975
@@ -79,16 +193,6 @@ The Blue Light - 1932
 Triumph of the Will - 1935
 Tiefland - 1954
 
-# Long Films #
-Napoleon - 1927
-The Deluge - 1974
-1900 - 1976
-
-# 'Long' Films #
-The Long, Hot Summer - 1958
-The Long Goodbye - 1973
-The Long Good Friday - 1980
-
 # Early 70's Brit Crime #
 Get Carter - 1971
 Villain - 1971
@@ -98,16 +202,6 @@ Fear is the Key - 1972
 Scum - 1979 
 Quadrophrenia - 1979
 McVicar - 1980
-
-# Tarkovsky #
-Ivan's Childhood - 1962
-Andrei Rublev - 1966
-Stalker - 1979
-
-# Tarkovsky II #
-The Mirror - 1974
-The Steamroller and the Violin - 1961
-Beregis, zmey! - 1979
 
 # NYC Crime # 
 Shaft - 1971
@@ -123,11 +217,6 @@ The Passenger - 1975
 Pollyanna - 1960
 The Parent Trap - 1961
 Twisted Nerve - 1968
-
-# John Carpenter #
-Dark Star - 1974
-Assualt on Precinct 13 - 1976
-Eyes of Laura Mars
 
 # Robert Redford #
 The Property is Condemmed - 1966
@@ -164,16 +253,6 @@ Orochi - 1925
 A Page of Madness - 1926
 A Diary of Chuji’s Travels - 1927
 
-# Marlon Brando #
-The Wild One - 1953
-On the Waterfront - 1954
-Last Tango in Paris - 1972
-
-# Ingmar Bergman #
-Summer with Monika - 1953
-Wild Strawberries - 1957
-Persona - 1966
-
 # Russia Beyond Top 100 Films https://www.rbth.com/arts/329707-top-100-russian-soviet-movies #
 The Woman Who Sings - 1979
 Mother - 1926
@@ -183,16 +262,6 @@ Shadows of Forgotten Ancestors - 1965
 Suddenly, Last Summer - 1959
 Cleopatra - 1963
 Who's Afraid of Virginia Woolf? - 1966
-
-# Federico Fellini #
-I Vitelloni - 1953
-La Strada - 1954
-Nights of Cabiria - 1957
-
-# Kenji Mizoguchi #
-The Life of Oharu - 1952
-Ugetsu - 1953
-Sancho the Bailiff - 1954
 
 # Gillo Pontecorvo #
 Kapo - 1960
@@ -239,7 +308,7 @@ Lady from Shanghai - 1947
 Touch of Evil - 1958
 The Trial - 1962
 
-# Natural Disaster Films II #
+# Natural Disaster Films #
 The Poseidon Adventure - 1972
 Earthquake - 1974
 Beyond the Poseidon Adventure - 1979
@@ -253,11 +322,6 @@ Airport '77 - 1977
 Kid Galahad - 1937
 Hammer - 1972
 Raging Bull - 1980
-
-# Vincent Price #
-The House of Wax - 1953
-The Fly - 1958
-House on Haunted Hill - 1959
 
 # Vincent Price II #
 The Masque of the Red Death - 1964
@@ -288,11 +352,6 @@ Chinatown - 1974
 Odd Man Out - 1947
 The Fallen Idol - 1948
 The Third Man - 1949
-
-# Ralph Bakshi #
-Heavy Traffic - 1973
-Wizards - 1977
-The Lord of the Rings - 1978
 
 # Asterix #
 Asterix the Gaul - 1967
@@ -333,11 +392,6 @@ Sink the Bismarck! - 1960
 Pandora and the Flying Dutchman - 1951
 Mogambo - 1953
 Night of the Iguana - 1964
-
-# Yasujiro Ozu #
-Late Spring - 1949
-Tokyo Story - 1953
-An Autumn Afternoon - 1962
 
 # Russia Beyond Top 100 Films II #
 Cine-Eye - 1924
@@ -839,7 +893,11 @@ The Blazing Sun - 1954
 Jamila, the Algerian - 1970
 Auliban, the Seller of Rings - 1973
 
-
+# Women at Work #
+Norma Rae - 1979
+9 to 5 - 1980
+Coal Miner's Daughter - 1980
+Millions Like Us???
 
 
 
@@ -2581,6 +2639,8 @@ The Cranes Are Flying - 1957
 
 
 
+
+
 # BFI Southern Gothic List IV #
 Reflections in a Golden Eye - 1967
 The Heart is a Lonely Hunter - 1968
@@ -2607,4 +2667,5 @@ Kobaiyashi films
 Natural Disaster Films
 San Francisco - 1936
 The Night the World Exploded - 1957
-Crack in the World - 1965
+Crack in the World - 196
+October (10 Days That Shook the World) - 1928
