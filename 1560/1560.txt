@@ -38,10 +38,10 @@ ALEXANDER NEVSKY - 1938
 IVAN THE TERRIBLE, PART 1 - 1944
 IVAN THE TERRIBLE, PART 2 - 1945
 
-# Agnes Varda #
-La Pointe Courte - 1955
-Cleo from 5 to 7 - 1962
-Le Bonheur - 1965
+# AGNES VARDA #
+LA POINTE COURTE - 1955
+CLEO FROM 5 TO 7 - 1962
+LE BONHEUR - 1965
 
 # Ralph Bakshi #
 Heavy Traffic - 1973
@@ -53,10 +53,10 @@ Je Tu Il Elle - 1974
 Jeanne Dielman - 1975
 The Meetings of Anna - 1978
 
-# Yasujiro Ozu #
-Late Spring - 1949
-Tokyo Story - 1953
-An Autumn Afternoon - 1962
+# Ernst Lubitsch #
+Trouble in Paradise - 1932
+Ninotchka - 1939
+The Shop Around the Corner - 1940
 
 # Vera Chytilová #
 Something Different - 1963
@@ -72,6 +72,11 @@ Eyes of Laura Mars - 1978
 Heat - 1963
 You and Me - 1971
 The Ascent - 1977
+
+# Yasujiro Ozu #
+Late Spring - 1949
+Tokyo Story - 1953
+An Autumn Afternoon - 1962
 
 # Long Films #
 Napoleon - 1927
@@ -158,6 +163,16 @@ Riddance - 1973
 Adoption - 1975
 Women - 1977
 
+# NYC Crime # 
+Shaft - 1971
+The Taking of Pelham One Two Three - 1974
+Death Wish - 1974
+
+# Susan Sontag #
+(1969) Duett för kannibaler (Duet for Cannibals)
+(1971) Broder Carl (Brother Carl)
+(1974) Promised Lands
+
 # Earlier Woo #
 The Dragon Tamers - 1975
 Hand of Death - 1976
@@ -202,11 +217,6 @@ Fear is the Key - 1972
 Scum - 1979 
 Quadrophrenia - 1979
 McVicar - 1980
-
-# NYC Crime # 
-Shaft - 1971
-The Taking of Pelham One Two Three - 1974
-Death Wish - 1974
 
 # Micalangelo Antonioni #
 Blow-Up - 1966
@@ -447,11 +457,6 @@ Secret Agent - 1936
 Lust for Life - 1956
 Paths of Glory - 1957
 Spartacus - 1960
-
-# Ernst Lubitsch #
-Trouble in Paradise - 1932
-Ninotchka - 1939
-The Shop Around the Corner - 1940
 
 # Peter Weir #
 The Cars That Ate Paris - 1974
@@ -2669,3 +2674,4 @@ San Francisco - 1936
 The Night the World Exploded - 1957
 Crack in the World - 196
 October (10 Days That Shook the World) - 1928
+It's a Mad Mad Mad Mad World - 1963
