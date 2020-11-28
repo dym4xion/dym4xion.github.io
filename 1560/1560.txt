@@ -43,10 +43,10 @@ LA POINTE COURTE - 1955
 CLEO FROM 5 TO 7 - 1962
 LE BONHEUR - 1965
 
-# Ralph Bakshi #
-Heavy Traffic - 1973
-Wizards - 1977
-The Lord of the Rings - 1978
+# RALPH BAKSHI #
+HEAVY TRAFFIC - 1973
+WIZARDS - 1977
+THE LORD OF THE RINGS - 1978
 
 # Chantal Akerman #
 Je Tu Il Elle - 1974
@@ -63,10 +63,10 @@ Something Different - 1963
 Daisies - 1966
 Panelstory - 1980
 
-# John Carpenter #
-Dark Star - 1974
-Assualt on Precinct 13 - 1976
-Eyes of Laura Mars - 1978
+# Tarkovsky #
+Ivan's Childhood - 1962
+Andrei Rublev - 1966
+Stalker - 1979
 
 # Larisa Shepitko #
 Heat - 1963
@@ -78,25 +78,15 @@ Late Spring - 1949
 Tokyo Story - 1953
 An Autumn Afternoon - 1962
 
-# Long Films #
-Napoleon - 1927
-The Deluge - 1974
-1900 - 1976
-
-# 'Long' Films #
-The Long, Hot Summer - 1958
-The Long Goodbye - 1973
-The Long Good Friday - 1980
-
 # Mimi Wertmuller #
 Love & Anarchy - 1973
 Swept Away - 1974
 Seven Beauties - 1975
 
-# Tarkovsky #
-Ivan's Childhood - 1962
-Andrei Rublev - 1966
-Stalker - 1979
+# John Carpenter #
+Dark Star - 1974
+Assualt on Precinct 13 - 1976
+Eyes of Laura Mars - 1978
 
 # Ida Lupino #
 The Hitch-Hiker - 1953
@@ -172,6 +162,21 @@ Death Wish - 1974
 (1969) Duett för kannibaler (Duet for Cannibals)
 (1971) Broder Carl (Brother Carl)
 (1974) Promised Lands
+
+# David Cronenberg #
+Shivers - 1975
+Rabid - 1977
+The Brood - 1979
+
+# Long Films #
+Napoleon - 1927
+The Deluge - 1974
+1900 - 1976
+
+# 'Long' Films #
+The Long, Hot Summer - 1958
+The Long Goodbye - 1973
+The Long Good Friday - 1980
 
 # Earlier Woo #
 The Dragon Tamers - 1975
@@ -2675,3 +2680,4 @@ The Night the World Exploded - 1957
 Crack in the World - 196
 October (10 Days That Shook the World) - 1928
 It's a Mad Mad Mad Mad World - 1963
+Sunrise: A Song of Two Humans | F.W. Murnau (1927).
