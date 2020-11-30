@@ -1,18 +1,70 @@
 <rss version="2.0">
 	<channel>
-		<title>The 1560 Prpject </title>
+		<title>The 1560 Project </title>
 		<link>https://dym4xion.github.io/1560/1560.html</link>
-		<description>A weekly film blog.</description>
+		<description>A weekly film blog. A 10 year project.</description>
 		<language>en</language>
-		<image>favicon.png</image>
+		<image>https://dym4xion.github.io/1560/favicon.png</image>
 
 
-		
+		<item>
+			<title>W010: Ralph Bakshi</title>
+			<link>https://dym4xion.github.io/1560/Y01/W010.html</link>
+			<description>A quick look at Heavy Traffic (1973), Wizards (1977) and The Lord of the Rings (1978).</description>
+		</item>
+
+		<item>
+			<title>W009: Agnès Varda</title>
+			<link>https://dym4xion.github.io/1560/Y01/W009.html</link>
+			<description>A quick look at La Pointe Courte (1955), Cléo from 5 to 7 (1962) and Le Bonheur (1965).</description>
+		</item>
+
+		<item>
+			<title>W008: Sergei Eisenstein</title>
+			<link>https://dym4xion.github.io/1560/Y01/W008.html</link>
+			<description>A quick look at Alexander Nevsky (1938), Ivan the Terrible Part 1 (1944) and Part 2 (1945).</description>
+		</item>
+
+		<item>
+			<title>W007: Youssef Chahine</title>
+			<link>https://dym4xion.github.io/1560/Y01/W007.html</link>
+			<description>A quick look at Cairo Station (1958), Saladin (1963) and Alexandria... Why? (1979).</description>
+		</item>
+
+		<item>
+			<title>W006: Courtroom Dramas</title>
+			<link>https://dym4xion.github.io/1560/Y01/W006.html</link>
+			<description>A quick look at Seven Angry Men (1957), Anatomy of a Murder (1959) and Kramer Vs. Kramer (1979).</description>
+		</item>
+
+		<item>
+			<title>W005: Post-War Brit-Crime</title>
+			<link>https://dym4xion.github.io/1560/Y01/W005.html</link>
+			<description>A quick look at It Always Rains on Sunday (1947), Brighton Rock (1948) and The Blue Lamp (1950).</description>
+		</item>
+
+		<item>
+			<title>W004: David Lean</title>
+			<link>https://dym4xion.github.io/1560/Y01/W004.html</link>
+			<description>A quick look at Great Expectations (1946), The Bridge on the River Kwai (1957) and Laurence of Arabia (1962).</description>
+		</item>
+
+		<item>
+			<title>W003: Akira Kurosawa</title>
+			<link>https://dym4xion.github.io/1560/Y01/W003.html</link>
+			<description>A quick look at Rashomon (1950), Seven Samurai (1954) and Yojimbo (1961).</description>
+		</item>
+
+		<item>
+			<title>W002: The Dollars Trilogy</title>
+			<link>https://dym4xion.github.io/1560/Y01/W002.html</link>
+			<description>A quick look at A Fistful of Dollars (1964), For a Few Dollars More (1965) and The Good, The Bad and the Ugly (1966).</description>
+		</item>
 
 		<item>
 			<title>W001: Costa-Gavras</title>
 			<link>https://dym4xion.github.io/1560/Y01/W001.html</link>
-			<description>A quick look at Z (1969), The Confession (1970) and State of Siege (1973)</description>
+			<description>A quick look at Z (1969), The Confession (1970) and State of Siege (1973).</description>
 		</item>
 	</channel>
 </rss>
