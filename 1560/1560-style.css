@@ -14,6 +14,10 @@ a {
     text-decoration: none;
 }
 
+#rss {
+    background-color: orange;
+}
+
 .navList li {
     margin-bottom: 1em;
 }
