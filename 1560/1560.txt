@@ -48,10 +48,15 @@ HEAVY TRAFFIC - 1973
 WIZARDS - 1977
 THE LORD OF THE RINGS - 1978
 
-# Chantal Akerman #
-Je Tu Il Elle - 1974
-Jeanne Dielman - 1975
-The Meetings of Anna - 1978
+# CHANTAL AKERMAN #
+JE TU IL ELLE - 1974
+JEANNE DIELMAN - 1975
+LES RENDEZ-VOUS D'ANNA - 1978
+
+# Peter Sellers' Inspector Clouseau #
+The Pink Panther - 1963
+A Shot in the Dark - 1964
+The Return of Pink Panther - 1975
 
 # Ernst Lubitsch #
 Trouble in Paradise - 1932
@@ -63,6 +68,11 @@ Something Different - 1963
 Daisies - 1966
 Panelstory - 1980
 
+# Killer Plants #
+The Thing from Another World - 1951
+The Day of the Triffids - 1962
+Dr. Terror's House of Horrors - 1965
+
 # Tarkovsky #
 Ivan's Childhood - 1962
 Andrei Rublev - 1966
@@ -73,6 +83,11 @@ Heat - 1963
 You and Me - 1971
 The Ascent - 1977
 
+# Bird Films # 
+The Birds - 1963
+The Vulture - 1967
+Kes - 1969
+
 # Yasujiro Ozu #
 Late Spring - 1949
 Tokyo Story - 1953
@@ -82,6 +97,11 @@ An Autumn Afternoon - 1962
 Love & Anarchy - 1973
 Swept Away - 1974
 Seven Beauties - 1975
+
+# Don't ... #
+Don't Look Now - 1973
+Don't Look in the Basement - 1973
+Don't Go in the House - 1979
 
 # John Carpenter #
 Dark Star - 1974
@@ -483,11 +503,6 @@ Rome, Open City - 1945
 Pasian - 1946
 Germany, Year Zero - 1948
 
-# Killer Plants #
-The Thing from Another World - 1951
-The Day of the Triffids - 1962
-Dr. Terror's House of Horrors - 1965
-
 # Robert Altman #
 M.A.S.H. - 1970
 Nashville - 1975
@@ -742,21 +757,6 @@ Borrowing Matchsticks - 1980
 The Great Ziegfeld - 1936
 The Life of Emile Zola - 1937
 You Can't Take It with You - 1938
-
-# Bird Films # 
-The Birds - 1963
-The Vulture - 1967
-Kes - 1969
-
-# Don't ... #
-Don't Look Now - 1973
-Don't Look in the Basement - 1973
-Don't Go in the House - 1979
-
-# Peter Seller's Inspector Clouseau #
-The Pink Panther - 1963
-A Shot in the Dark - 1964
-The Return of Pink Panther - 1975
 
 # Russia Beyond Top 100 Films III #
 Alexander Nevsky - 1938
@@ -2568,38 +2568,6 @@ Spring on Zarechnaya Street - 1956
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # BFI Best Japanese Films of Each Year XVII #
 The Yellow Handkerchief - 1977
 The Demon - 1978
@@ -2614,42 +2582,6 @@ Patton - 1970
 Amphibian Man - 1962
 Unbelievable Adventures of Italians in Russia - 1974
 The Cranes Are Flying - 1957 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # BFI Southern Gothic List IV #
 Reflections in a Golden Eye - 1967
@@ -2677,7 +2609,7 @@ Kobaiyashi films
 Natural Disaster Films
 San Francisco - 1936
 The Night the World Exploded - 1957
-Crack in the World - 196
+Crack in the World - 196?
 October (10 Days That Shook the World) - 1928
 It's a Mad Mad Mad Mad World - 1963
 Sunrise: A Song of Two Humans | F.W. Murnau (1927).
