@@ -53,10 +53,10 @@ JE TU IL ELLE - 1974
 JEANNE DIELMAN - 1975
 LES RENDEZ-VOUS D'ANNA - 1978
 
-# Peter Sellers' Inspector Clouseau #
-The Pink Panther - 1963
-A Shot in the Dark - 1964
-The Return of Pink Panther - 1975
+# PETER SELLERS' INSPECTOR CLOUSEAU #
+THE PINK PANTHER - 1963
+A SHOT IN THE DARK - 1964
+THE RETURN OF PINK PANTHER - 1975
 
 # Ernst Lubitsch #
 Trouble in Paradise - 1932
@@ -906,12 +906,12 @@ Auliban, the Seller of Rings - 1973
 # Women at Work #
 Norma Rae - 1979
 9 to 5 - 1980
-Coal Miner's Daughter - 1980
-Millions Like Us???
 
-
-
-
+# Edwards and Sellers Return #
+The Party - 1968
+The Pink Panther Strikes Again - 1976
+Revenge of the Pink Panther - 1978
+ 
 
 
 
@@ -2613,3 +2613,8 @@ Crack in the World - 196?
 October (10 Days That Shook the World) - 1928
 It's a Mad Mad Mad Mad World - 1963
 Sunrise: A Song of Two Humans | F.W. Murnau (1927).
+badlands - 1973
+hammer horror films
+interrabang
+Coal Miner's Daughter - 1980
+Millions Like Us - 1943
