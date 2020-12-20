@@ -1,5 +1,6 @@
 body {
     background: #FFFAFD;
+    font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
 }
 
 section {
@@ -35,21 +36,15 @@ img, video {
 
 #home-nav{
     list-style-type: none;
-/*    margin-left: 10%;
-    margin-right: 10%;*/
     height: 80vh;
 }
 #home-nav a{
     display: block;
     background: #A5FDC1;
     color: black;
-    /*text-align: center;*/
-    /*border: solid black 1px;*/
     font-size: large;
-    height: 20%;
+    height: 25%;
     margin:0.5em;
-/*    margin-top: 0.5em;
-    margin-bottom: 0.5em;*/
 }
 #home-nav a:hover{
     background: black;

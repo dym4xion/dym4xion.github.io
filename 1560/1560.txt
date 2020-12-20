@@ -58,50 +58,50 @@ THE PINK PANTHER - 1963
 A SHOT IN THE DARK - 1964
 THE RETURN OF PINK PANTHER - 1975
 
-# Ernst Lubitsch #
-Trouble in Paradise - 1932
-Ninotchka - 1939
-The Shop Around the Corner - 1940
-
-# Vera Chytilová #
-Something Different - 1963
-Daisies - 1966
-Panelstory - 1980
-
-# Killer Plants #
-The Thing from Another World - 1951
-The Day of the Triffids - 1962
-Dr. Terror's House of Horrors - 1965
+# ERNST LUBITSCH #
+TROUBLE IN PARADISE - 1932
+NINOTCHKA - 1939
+THE SHOP AROUND THE CORNER - 1940
 
 # Tarkovsky #
 Ivan's Childhood - 1962
 Andrei Rublev - 1966
 Stalker - 1979
 
+# Vera Chytilová #
+Something Different - 1963
+Daisies - 1966
+Panelstory - 1980
+
 # Larisa Shepitko #
 Heat - 1963
 You and Me - 1971
 The Ascent - 1977
-
-# Bird Films # 
-The Birds - 1963
-The Vulture - 1967
-Kes - 1969
-
-# Yasujiro Ozu #
-Late Spring - 1949
-Tokyo Story - 1953
-An Autumn Afternoon - 1962
 
 # Mimi Wertmuller #
 Love & Anarchy - 1973
 Swept Away - 1974
 Seven Beauties - 1975
 
+# Bird Films # 
+The Birds - 1963
+The Vulture - 1967
+Kes - 1969
+
+# Killer Plants #
+The Thing from Another World - 1951
+The Day of the Triffids - 1962
+Dr. Terror's House of Horrors - 1965
+
 # Don't ... #
 Don't Look Now - 1973
 Don't Look in the Basement - 1973
 Don't Go in the House - 1979
+
+# Yasujiro Ozu #
+Late Spring - 1949
+Tokyo Story - 1953
+An Autumn Afternoon - 1962
 
 # John Carpenter #
 Dark Star - 1974
