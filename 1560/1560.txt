@@ -63,10 +63,10 @@ TROUBLE IN PARADISE - 1932
 NINOTCHKA - 1939
 THE SHOP AROUND THE CORNER - 1940
 
-# Tarkovsky #
-Ivan's Childhood - 1962
-Andrei Rublev - 1966
-Stalker - 1979
+# TARKOVSKY #
+IVAN'S CHILDHOOD - 1962
+ANDREI RUBLEV - 1966
+STALKER - 1979
 
 # Vera Chytilová #
 Something Different - 1963
@@ -163,7 +163,7 @@ Heart of an Actress - 1924
 The Devil in the City - 1925
 Princess Mandane - 1928
 
-# Tarkovsky II #
+# Tarkovsky II # https://www.youtube.com/watch?v=FEsddGeevFg ; https://www.youtube.com/watch?v=bEpkrrmXTAE
 The Mirror - 1974
 The Steamroller and the Violin - 1961
 Beregis, zmey! - 1979
@@ -2618,3 +2618,5 @@ hammer horror films
 interrabang
 Coal Miner's Daughter - 1980
 Millions Like Us - 1943
+Siberiade - 1979
+sergei parajanov
