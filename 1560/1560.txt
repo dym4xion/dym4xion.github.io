@@ -68,10 +68,10 @@ IVAN'S CHILDHOOD - 1962
 ANDREI RUBLEV - 1966
 STALKER - 1979
 
-# Vera Chytilová #
-Something Different - 1963
-Daisies - 1966
-Panelstory - 1980
+# VERA CHYTILOVÁ #
+SOMETHING DIFFERENT - 1963
+DAISIES - 1966
+PANELSTORY - 1980
 
 # Larisa Shepitko #
 Heat - 1963
@@ -2620,3 +2620,5 @@ Coal Miner's Daughter - 1980
 Millions Like Us - 1943
 Siberiade - 1979
 sergei parajanov
+aleksander dozhenka
+robert bresson
