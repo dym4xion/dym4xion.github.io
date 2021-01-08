@@ -73,12 +73,12 @@ SOMETHING DIFFERENT - 1963
 DAISIES - 1966
 PANELSTORY - 1980
 
-# Larisa Shepitko #
-Heat - 1963
-You and Me - 1971
-The Ascent - 1977
+# LARISA SHEPITKO #
+WINGS - 1966
+YOU AND ME - 1971
+THE ASCENT - 1977
 
-# Mimi Wertmuller #
+# Lina Wertmuller #
 Love & Anarchy - 1973
 Swept Away - 1974
 Seven Beauties - 1975
@@ -208,9 +208,9 @@ Invasion of the Body Snatchers - 1956
 Seconds - 1966
 Invasion of the Body Snatchers - 1978
 
-# Rounding Off Leone + Paint Your Wagon #
+# Leone II #
+The Colossus of Rhodes - 1961
 Once Upon a Time in the West - 1968
-Paint Your Wagon - 1969
 Duck, You Sucker - 1971
 
 # Weimar Film #
@@ -912,51 +912,55 @@ The Party - 1968
 The Pink Panther Strikes Again - 1976
 Revenge of the Pink Panther - 1978
  
+# Walter Hill #
+Hard Times - 1975
+The Driver - 1978
+The Long Riders - 1980
 
+# Dziga Vertov ... from Red Star Over Russia #
+Kino-Eye - 1924
+Man with a Movie Camera - 1929
+Enthusiasm - 1930
 
+# Sergio Corbucci #
+Django - 1966
+The Great Silence - 1968
+I'm Getting a Yacht - 1980
 
+# Sergio Sollima #
+Violent City - 1970
+Devil in the Brain - 1972
+Revolver - 1973
 
+# Kobayashi's Human Condition #
+Human Condition I: No Greater Love
+Human Condition II: Road to Eternity
+Human Condition III: A Soldier's Prayer
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Masaki Kobayashi II #
+Hara-Kiri - 1962
+Kwaidan - 1964
+Samurai Rebellion - 1967
 
 # Russia Beyond Top 100 Films IV #
 Kuban Cossacks - 1950
 Big School-Break - 1972
 Hello, I’m Your Aunt - 1975 
 
+# Sissy Spacek #
+Badlands - 1973
+Three Women - 1977
+Coal Miner's Daughter - 1980
 
+# Andrey Konchalovskiy #
+Uncle Vanya - 1970
+Romans o vlyublyonnykh - 1974
+Siberiade - 1970
 
-
-
-
-
-
-
-
-
-
+# F.W. Murnau #
+Nosteratu - 1922
+Sunrise - 1927
+Tabu - 1931
 
 # Academy Award for Best Picture Winners Vol. IV #
 Gone with the Wind - 1939
@@ -968,66 +972,65 @@ Spring on Leper’s Island - 1940
 Ornamental Hairpin - 1941
 The War at Sea from Hawaii to Malaya - 1942
 
+# Sergei Parajanov #
+Andreish - 1954
+Shadows of Forgotten Ancestors - 1965
+The Color of Pomegranates - 1969
 
+# Robert Bresson #
+Diary of a Country Priest - 1951
+Au Hasard Balthazar - 1966
+Mouchette - 1967
 
+# Whaddevahappenedto Gary Cooper? #
+Sergeant York - 1941
+For Whom the Bell Tolls - 1943
+High Noon - 1952
 
+# Is that you, John Wayne? Is this me? #
+The Searchers - 1956
+The Man Who Shot Liberty Valance - 1962
+True Grit - 1969
 
+# More Eastwood Westerns #
+Hang 'Em High - 1968
+Paint Your Wagon - 1969
+Two Mules for Sister Sara - 1970
 
+# Yet More Eastwood Westerns #
+Joe Kidd - 1972
+High Plains Drifter - 1973
+The Outlaw Josey Wales - 1976
 
+# October? #
+October (Ten Days that Shook the World) - 1927
+The October Man - 1947
+October Moth - 1960
 
+# Monroe #
+The Seven Year Itch - 1955
+The Prince and The Showgirl - 1957
+Some Like It Hot - 1959
 
+# Stanley Kramer #
+Inherit the Wind - 1960
+It's a Mad Mad Mad Mad World - 1963
+Guess Who's Coming to Dinner - 1967
 
+# Ivan Pravov and Olga Preobrazhenskaya #
+The Last Attraction - 1929
+And Quiet Flows the Don - 1930
+Stepan Razin - 1939
 
+# Lev Arnshtam #
+Zoya - 1944
+The Great Galinka - 1946
+History Lesson - 1957
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# With Music From Joan Baez #
+Sacco & Vanzetti - 1971
+Joe Hill - 1971
+Silent Running - 1972
 
 
 
@@ -1816,7 +1819,6 @@ Baker's Hawk - 1976
 
 
 
-
 # Russia Beyond Top 100 Films IX #
 Mimino - 1978
 The Dawns Here Are Quiet - 1972
@@ -2566,8 +2568,6 @@ Spring on Zarechnaya Street - 1956
 
 
 
-
-
 # BFI Best Japanese Films of Each Year XVII #
 The Yellow Handkerchief - 1977
 The Demon - 1978
@@ -2598,27 +2598,3 @@ The Sting - 1973
 Annie Hall - 1977
 The Deer Hunter - 1978
 --- fin ---
-
-# Uncategorised ideas #
-High Noon - 1952
-The Searchers - 1956
-Sacco & Vanzetti - 1971
-Sergio Corbucci films
-Sergio Sollima films
-Kobaiyashi films
-Natural Disaster Films
-San Francisco - 1936
-The Night the World Exploded - 1957
-Crack in the World - 196?
-October (10 Days That Shook the World) - 1928
-It's a Mad Mad Mad Mad World - 1963
-Sunrise: A Song of Two Humans | F.W. Murnau (1927).
-badlands - 1973
-hammer horror films
-interrabang
-Coal Miner's Daughter - 1980
-Millions Like Us - 1943
-Siberiade - 1979
-sergei parajanov
-aleksander dozhenka
-robert bresson
