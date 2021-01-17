@@ -68,7 +68,7 @@ IVAN'S CHILDHOOD - 1962
 ANDREI RUBLEV - 1966
 STALKER - 1979
 
-# VERA CHYTILOVÁ #
+# VĚRA CHYTILOVÁ #
 SOMETHING DIFFERENT - 1963
 DAISIES - 1966
 PANELSTORY - 1980
@@ -78,10 +78,25 @@ WINGS - 1966
 YOU AND ME - 1971
 THE ASCENT - 1977
 
-# Lina Wertmuller #
-Love & Anarchy - 1973
-Swept Away - 1974
-Seven Beauties - 1975
+# LINA WERTMÜLLER #
+THE SEDUCTION OF MIMI - 1972
+LOVE & ANARCHY - 1973
+SEVEN BEAUTIES - 1975
+
+# Starring Sissy Spacek #
+Badlands - 1973
+Three Women - 1977
+Coal Miner's Daughter - 1980
+
+# Ida Lupino #
+The Hitch-Hiker - 1953
+The Bigamist - 1953
+The Trouble with Angels - 1966
+
+# Yasujiro Ozu #
+Late Spring - 1949
+Tokyo Story - 1953
+An Autumn Afternoon - 1962
 
 # Bird Films # 
 The Birds - 1963
@@ -98,20 +113,10 @@ Don't Look Now - 1973
 Don't Look in the Basement - 1973
 Don't Go in the House - 1979
 
-# Yasujiro Ozu #
-Late Spring - 1949
-Tokyo Story - 1953
-An Autumn Afternoon - 1962
-
 # John Carpenter #
 Dark Star - 1974
 Assualt on Precinct 13 - 1976
 Eyes of Laura Mars - 1978
-
-# Ida Lupino #
-The Hitch-Hiker - 1953
-The Bigamist - 1953
-The Trouble with Angels - 1966
 
 # Marlon Brando #
 The Wild One - 1953
@@ -179,9 +184,9 @@ The Taking of Pelham One Two Three - 1974
 Death Wish - 1974
 
 # Susan Sontag #
-(1969) Duett för kannibaler (Duet for Cannibals)
-(1971) Broder Carl (Brother Carl)
-(1974) Promised Lands
+Duett för kannibaler (Duet for Cannibals) - 1969
+Broder Carl (Brother Carl) - 1971
+Promised Lands - 1974
 
 # David Cronenberg #
 Shivers - 1975
@@ -947,11 +952,6 @@ Kuban Cossacks - 1950
 Big School-Break - 1972
 Hello, I’m Your Aunt - 1975 
 
-# Sissy Spacek #
-Badlands - 1973
-Three Women - 1977
-Coal Miner's Daughter - 1980
-
 # Andrey Konchalovskiy #
 Uncle Vanya - 1970
 Romans o vlyublyonnykh - 1974
@@ -1032,15 +1032,15 @@ Sacco & Vanzetti - 1971
 Joe Hill - 1971
 Silent Running - 1972
 
+# Eldar Ryazanov #
+Watch Out for the Automobile - 1966
+Unbelievable Adventures of Italians in Russia - 1974
+Office Romance - 1977
 
-
-
-
-
-
-
-
-
+# Mauro Bolognini #
+Bell'Antonio - 1960
+Careless - 1962
+Madamigella di Maupin - 1966
 
 
 

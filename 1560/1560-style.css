@@ -22,6 +22,13 @@ a {
     margin-bottom: 1em;
 }
 
+.spoiler {
+    background-color: white;
+}
+.spoiler:hover, .spoiler:active {
+    background-color: black;
+}
+
 img, video {
     display: block;
     margin-left: auto;
