@@ -88,10 +88,15 @@ BADLANDS - 1973
 THREE WOMEN - 1977
 COAL MINER'S DAUGHTER - 1980
 
-# Yasujiro Ozu #
-Late Spring - 1949
-Tokyo Story - 1953
-An Autumn Afternoon - 1962
+# YASUJIRO OZU #
+LATE SPRING - 1949
+TOKYO STORY - 1953
+AN AUTUMN AFTERNOON - 1962
+
+# Yasujiro Ozu II #
+The Flavour of Green Tea Over Rice - 1952
+Floating Weeds - 1959
+Good Morning - 1959
 
 # Ida Lupino #
 The Hitch-Hiker - 1953
