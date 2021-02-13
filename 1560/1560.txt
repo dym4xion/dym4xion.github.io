@@ -98,20 +98,30 @@ THE FLAVOUR OF GREEN TEA OVER RICE - 1952
 FLOATING WEEDS - 1959
 GOOD MORNING - 1959
 
-# 3 Remaining Ozu in Colour #
-Equinox Flower - 1958
-Late Autumn - 1960
-The End of Summer - 1961
+# 3 REMAINING OZU IN COLOUR #
+EQUINOX FLOWER - 1958
+LATE AUTUMN - 1960
+THE END OF SUMMER - 1961
 
-# Ida Lupino #
-The Hitch-Hiker - 1953
-The Bigamist - 1953
-The Trouble with Angels - 1966
+# Hitchcock's Spies #
+The Man Who Knew Too Much - 1934
+39 Steps - 1935
+Secret Agent - 1936
 
 # Bird Films # 
 The Birds - 1963
 The Vulture - 1967
 Kes - 1969
+
+# With Music From Joan Baez #
+Sacco & Vanzetti - 1971
+Joe Hill - 1971
+Silent Running - 1972
+
+# Ida Lupino #
+The Hitch-Hiker - 1953
+The Bigamist - 1953
+The Trouble with Angels - 1966
 
 # Killer Plants #
 The Thing from Another World - 1951
@@ -188,10 +198,11 @@ Riddance - 1973
 Adoption - 1975
 Women - 1977
 
-# NYC Crime # 
+# 70's NYC Crime # 
 Shaft - 1971
+Across 110th Street - 1972
 The Taking of Pelham One Two Three - 1974
-Death Wish - 1974
+
 
 # Susan Sontag #
 Duett för kannibaler (Duet for Cannibals) - 1969
@@ -408,15 +419,15 @@ Asterix the Gaul - 1967
 Asterix and Cleopatra - 1968
 The Twelve Tasks of Asterix - 1976
 
-# Early Chaplin #
-The Kid - 1921
-A Woman of Paris - 1923
-The Gold Rush - 1925
-
 # BFI Best Japanese Films of Each Year II #
 Crossroads - 1928
 Days of Youth - 1929
 What Made Her Do It? - 1930
+
+# Early Chaplin #
+The Kid - 1921
+A Woman of Paris - 1923
+The Gold Rush - 1925
 
 # Middle Chaplin #
 The Circus - 1928
@@ -453,7 +464,7 @@ The Bat - 1926
 The Man Who Laughs - 1928
 The Bat Whispers - 1930
 
-# Chris Reeve #
+# Christopher Reeve #
 Superman - 1979
 Somewhere in Time - 1980
 Superman II - 1980
@@ -487,11 +498,6 @@ Zorro - 1975
 Samson and Delilah - 1949
 Quo Vadis - 1951
 David and Bathsheba - 1951
-
-# Hitchcock's Spies #
-The Man Who Knew Too Much - 1934
-39 Steps - 1935
-Secret Agent - 1936
 
 # Kirk Douglas #
 Lust for Life - 1956
@@ -738,12 +744,12 @@ Mata Hari - 1931
 Dishonored - 1931
 5 Fingers - 1952
 
-# Espionoage II#
+# Espionoage II #
 Pickup on South Street - 1953
 Kiss Me Deadly - 1955
 Carve Her Name with Pride - 1958
 
-# Espionoage III#
+# Espionoage III #
 The Manchurian Candidate - 1962
 Fantomas - 1964
 The Parallax View - 1974
@@ -919,6 +925,7 @@ Jamila, the Algerian - 1970
 Auliban, the Seller of Rings - 1973
 
 # Women at Work #
+When a Woman Ascends the Stairs - 1960
 Norma Rae - 1979
 9 to 5 - 1980
 
@@ -1036,11 +1043,6 @@ Stepan Razin - 1939
 Zoya - 1944
 The Great Galinka - 1946
 History Lesson - 1957
-
-# With Music From Joan Baez #
-Sacco & Vanzetti - 1971
-Joe Hill - 1971
-Silent Running - 1972
 
 # Eldar Ryazanov #
 Watch Out for the Automobile - 1966
@@ -2568,16 +2570,6 @@ Spring on Zarechnaya Street - 1956
 
 
 
-
-
-
-
-
-
-
-
-
-
 # BFI Best Japanese Films of Each Year XVII #
 The Yellow Handkerchief - 1977
 The Demon - 1978
@@ -2607,4 +2599,4 @@ Carry On Emmannuelle - 1978
 The Sting - 1973
 Annie Hall - 1977
 The Deer Hunter - 1978
---- fin ---
+--- fin --- 2600
