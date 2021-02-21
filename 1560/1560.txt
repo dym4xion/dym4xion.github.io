@@ -103,15 +103,15 @@ EQUINOX FLOWER - 1958
 LATE AUTUMN - 1960
 THE END OF SUMMER - 1961
 
-# Hitchcock's Spies #
-The Man Who Knew Too Much - 1934
-39 Steps - 1935
-Secret Agent - 1936
+# HITCHCOCK'S SPIES #
+THE MAN WHO KNEW TOO MUCH - 1934
+THE 39 STEPS - 1935
+SECRET AGENT - 1936
 
 # Bird Films # 
 The Birds - 1963
-The Vulture - 1967
 Kes - 1969
+Jonathan Livingston Seagull - 1973
 
 # With Music From Joan Baez #
 Sacco & Vanzetti - 1971
@@ -674,7 +674,7 @@ The Philadelphia Story - 1940
 The African Queen - 1951
 The Lion in Winter - 1968
 
-# Vincent Price II #
+# Vincent Price III #
 The Tower of London - 1962
 The Tales of Terror - 1962
 The Haunted Palace - 1963
@@ -1054,40 +1054,40 @@ Bell'Antonio - 1960
 Careless - 1962
 Madamigella di Maupin - 1966
 
+# Stars Being Born #
+A Star is Born - 1937
+A Star is Born - 1954
+A Star is Born - 1976
 
+# George Formby #
+No Limit - 1935
+Keep Your Seats, Please! - 1936
+George Takes The Air - 1938
 
+# ... Madness #
+Reefer Madness - 1936
+Sex Madness - 1938
+Spring Madness - 1938
 
+# Stanley Donen #
+Singin' in the Rain - 1952
+Bedazzled - 1967
+Saturn 3 - 1980
 
+# Rita Tushingham #
+Girl With Green Eyes - 1964
+The Knack... and How to Get It - 1965
+The Trap - 1966
 
+# Vincent Price IV #
+Laura - 1944
+Pit and Pendulum - 1961
+Theatre of Blood - 1973
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Peter O'Toole #
+Lord Jim - 1965
+The Ruling Class - 1972
+The Stunt Man - 1980
 
 
 
@@ -1263,7 +1263,7 @@ Going My Way - 1944
 
 # Bird Films 2: Electric Cockatoo #
 The Giant Claw - 1959
-Jonathan Livingston Seagull - 1973
+The Vulture - 1967
 The Falcons - 1967
 
 
@@ -1814,7 +1814,7 @@ From Here to Eternity - 1953
 
 
 
-# Bird Films 3: Grasping at Caws #
+# Bird Films 3 #
 The Seven Ravens - 1937
 Bill and Coo - 1948
 Baker's Hawk - 1976
