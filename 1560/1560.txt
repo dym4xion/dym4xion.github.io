@@ -108,10 +108,15 @@ THE MAN WHO KNEW TOO MUCH - 1934
 THE 39 STEPS - 1935
 SECRET AGENT - 1936
 
-# Bird Films # 
-The Birds - 1963
-Kes - 1969
-Jonathan Livingston Seagull - 1973
+# BIRD FILMS # 
+THE BIRDS - 1963
+KES - 1969
+JONATHAN LIVINGSTON SEAGULL - 1973
+
+# Vincent Price #
+The House of Wax - 1953
+The Fly - 1958
+House on Haunted Hill - 1959
 
 # With Music From Joan Baez #
 Sacco & Vanzetti - 1971
@@ -178,11 +183,6 @@ The Connection - 1961
 The Cool World - 1963
 Portrait of Jason - 1967
 
-# Vincent Price #
-The House of Wax - 1953
-The Fly - 1958
-House on Haunted Hill - 1959
-
 # Germaine Dulac #
 Heart of an Actress - 1924
 The Devil in the City - 1925
@@ -202,7 +202,6 @@ Women - 1977
 Shaft - 1971
 Across 110th Street - 1972
 The Taking of Pelham One Two Three - 1974
-
 
 # Susan Sontag #
 Duett för kannibaler (Duet for Cannibals) - 1969
@@ -295,8 +294,8 @@ Nicholas and Alexandra - 1971
 Papillon - 1973
 
 # Judy Garland #
+For Me and My Gal - 1942
 Meet Me in St. Louis - 1944
-A Star Is Born - 1954
 Judgment at Nuremberg - 1961
 
 # James Dean #
@@ -1425,7 +1424,7 @@ Toys in the Attic - 1963
 Hush…Hush, Sweet Charlotte - 1964
 
 # BFI Best Japanese Films of Each Year IX #
-Late Spring - 1949
+REPLACE ---- Late Spring - 1949
 Repast - 1951
 The Life of Oharu - 1952
 
@@ -2552,7 +2551,6 @@ The Diamond Arm - 1969
 Belorussky Station - 1971
 D’Artagnan and the Three Musketeers - 1978
 Spring on Zarechnaya Street - 1956
-
 
 
 
