@@ -118,10 +118,15 @@ THE HOUSE OF WAX - 1953
 THE FLY - 1958
 HOUSE ON HAUNTED HILL - 1959
 
-# With Music From Joan Baez #
-Sacco & Vanzetti - 1971
-Joe Hill - 1971
-Silent Running - 1972
+# WITH MUSIC FROM JOAN BAEZ #
+SACCO & VANZETTI - 1971
+JOE HILL - 1971
+SILENT RUNNING - 1972
+
+# John Carpenter #
+Dark Star - 1974
+Assualt on Precinct 13 - 1976
+Eyes of Laura Mars - 1978
 
 # Ida Lupino #
 The Hitch-Hiker - 1953
@@ -137,11 +142,6 @@ Dr. Terror's House of Horrors - 1965
 Don't Look Now - 1973
 Don't Look in the Basement - 1973
 Don't Go in the House - 1979
-
-# John Carpenter #
-Dark Star - 1974
-Assualt on Precinct 13 - 1976
-Eyes of Laura Mars - 1978
 
 # Marlon Brando #
 The Wild One - 1953
@@ -189,8 +189,8 @@ The Devil in the City - 1925
 Princess Mandane - 1928
 
 # Tarkovsky II # https://www.youtube.com/watch?v=FEsddGeevFg ; https://www.youtube.com/watch?v=bEpkrrmXTAE
-The Mirror - 1974
 The Steamroller and the Violin - 1961
+The Mirror - 1974
 Beregis, zmey! - 1979
 
 # Márta Mészáros #
