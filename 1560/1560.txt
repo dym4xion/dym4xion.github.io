@@ -123,10 +123,15 @@ SACCO & VANZETTI - 1971
 JOE HILL - 1971
 SILENT RUNNING - 1972
 
-# John Carpenter #
-Dark Star - 1974
-Assualt on Precinct 13 - 1976
-Eyes of Laura Mars - 1978
+# JOHN CARPENTER #
+DARK STAR - 1974
+ASSUALT ON PRECINCT 13 - 1976
+EYES OF LAURA MARS - 1978
+
+# Dorothy Arzner #
+Merrily We Go to Hell - 1932
+Christopher Strong - 1933
+The Bride Wore Red - 1937
 
 # Ida Lupino #
 The Hitch-Hiker - 1953
@@ -907,11 +912,6 @@ Julia Misbehaves - 1948
 A Tree Grows in Brooklyn - 1945
 Nightmare Alley - 1947
 Desk Set - 1957
-
-# Dorothy Arzner #
-Merrily We Go to Hell - 1932
-Christopher Strong - 1933
-The Bride Wore Red - 1937
 
 # WWII in the Skies #
 First of the Few - 1942
