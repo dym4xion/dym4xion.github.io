@@ -128,10 +128,35 @@ DARK STAR - 1974
 ASSUALT ON PRECINCT 13 - 1976
 EYES OF LAURA MARS - 1978
 
-# Dorothy Arzner #
-Merrily We Go to Hell - 1932
-Christopher Strong - 1933
-The Bride Wore Red - 1937
+# DOROTHY ARZNER #
+THE BRIDE WORE RED - 1937 https://ok.ru/video/260628220579
+DANCE GIRL DANCE - 1940 https://ok.ru/video/2350905690804
+FIRST COMES COURAGE - 1943 https://ok.ru/video/270894500515
+
+# David Lean II # https://www.youtube.com/watch?v=f0Wz-rALiXQ
+In Which We Serve - 1942
+Dr. Zhivago - 1965
+Ryan's Daughter - 1970
+
+# Greek Myth #
+Helena - 1924/1956
+Hercules - 1958
+Jason and the Argonaughts - 1963
+
+# Kirk Douglas #
+Lust for Life - 1956
+Paths of Glory - 1957
+Spartacus - 1960
+
+# Fritz Lang's Dr. Mabuse #
+Dr. Mabuse the Gambler - 1922
+The Testament of Dr. Mabuse - 1933
+The Thousand Eyes of Dr. Mabuse - 1960
+
+# Jacques Tourneur #
+Cat People - 1942
+I Walked with a Zombie - 1943
+Out of the Past - 1947
 
 # Ida Lupino #
 The Hitch-Hiker - 1953
@@ -393,11 +418,6 @@ The Masque of the Red Death - 1964
 Witchfinder General - 1968
 The Abominable Dr. Phibes - 1971
 
-# Greek Myth #
-Helena - 1924
-Hercules - 1958
-Jason and the Argonaughts - 1963
-
 # Carry On ... I #
 Carry On Sergeant - 1958
 Carry On Nurse - 1959
@@ -503,11 +523,6 @@ Samson and Delilah - 1949
 Quo Vadis - 1951
 David and Bathsheba - 1951
 
-# Kirk Douglas #
-Lust for Life - 1956
-Paths of Glory - 1957
-Spartacus - 1960
-
 # Peter Weir #
 The Cars That Ate Paris - 1974
 Picnic at Hanging Rock - 1975
@@ -555,6 +570,7 @@ Il Generale Della Rovere - 1959
 
 # Georges Franju #
 Head Against the Wall - 1959
+Eyes Without a Face - 1960
 Therese - 1962
 Judex - 1963
 
@@ -728,11 +744,6 @@ Gunga Din - 1939
 Suspicion - 1941
 Letter from an Unknown Woman - 1948
 
-# Fritz Lang's Dr. Mabuse #
-Dr. Mabuse the Gambler - 1922
-The Testament of Dr. Mabuse - 1933
-The Thousand Eyes of Dr. Mabuse - 1960
-
 # More Fritz Lang #
 Spies - 1928
 Ministry of Fear - 1944
@@ -787,11 +798,6 @@ You Can't Take It with You - 1938
 Alexander Nevsky - 1938
 The Very Same Munchhausen - 1980
 White Bim Black Ear - 1977
-
-# David Lean II # https://www.youtube.com/watch?v=f0Wz-rALiXQ
-In Which We Serve - 1942
-Dr. Zhivago - 1965
-Ryan's Daughter - 1970
 
 # Birds of War #
 The Sound Barrier - 1952
@@ -1088,15 +1094,15 @@ Lord Jim - 1965
 The Ruling Class - 1972
 The Stunt Man - 1980
 
+# Paul Verhoven #
+Business is Business - 1971
+Turkish Delight - 1973
+Keetje Tippel - 1975
 
-
-
-
-
-
-
-
-
+# Oshima Nagisa #
+Cruel Story of Youth - 1960
+Violence at Noon - 1966
+Boy - 1969
 
 
 
