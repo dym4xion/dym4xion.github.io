@@ -133,10 +133,15 @@ THE BRIDE WORE RED - 1937 https://ok.ru/video/260628220579
 DANCE GIRL DANCE - 1940 https://ok.ru/video/2350905690804
 FIRST COMES COURAGE - 1943 https://ok.ru/video/270894500515
 
-# David Lean II # https://www.youtube.com/watch?v=f0Wz-rALiXQ
-In Which We Serve - 1942
-Dr. Zhivago - 1965
-Ryan's Daughter - 1970
+# DAVID LEAN II # 
+IN WHICH WE SERVE - 1942
+THIS HAPPY BREED - 1944
+BLITHE SPIRIT - 1945
+
+# Ingmar Bergman #
+Summer with Monika - 1953
+Wild Strawberries - 1957
+Persona - 1966
 
 # Greek Myth #
 Helena - 1924/1956
@@ -182,11 +187,6 @@ Last Tango in Paris - 1972
 Galileo - 1968
 The Night Porter - 1974
 Beyond Good and Evil - 1977
-
-# Ingmar Bergman #
-Summer with Monika - 1953
-Wild Strawberries - 1957
-Persona - 1966
 
 # Kira Muratova #
 Our Honest Bread - 1964
@@ -560,6 +560,7 @@ Gunfight at the O.K. Corral - 1957
 
 # Milos Forman #
 Black Peter - 1964
+The Loves of a Blonde - 1965
 The Firemen's Ball - 1967
 Taking Off - 1971
 
@@ -1979,10 +1980,10 @@ Carry On Henry - 1971
 
 
 
-# David Lean III #
-The Happy Breed - 1944
-Blithe Spirit - 1945
-The Passionate Friends - 1949
+# David Lean III # https://www.youtube.com/watch?v=f0Wz-rALiXQ
+Summertime - 1955
+Dr. Zhivago - 1965
+Ryan's Daughter - 1970
 
 
 
@@ -2395,9 +2396,10 @@ Kidnapping, Caucasian Style - 1967
 
 
 # David Lean IV #
+The Passionate Friends - 1949
 Madeleine - 1950
 Hobson's Choice - 1954
-Summertime - 1955
+
 
 
 
