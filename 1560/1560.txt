@@ -138,10 +138,15 @@ IN WHICH WE SERVE - 1942
 THIS HAPPY BREED - 1944
 BLITHE SPIRIT - 1945
 
-# Ingmar Bergman #
-Summer with Monika - 1953
-Wild Strawberries - 1957
-Persona - 1966
+# INGMAR BERGMAN #
+SUMMER WITH MONIKA - 1953
+WILD STRAWBERRIES - 1957
+PERSONA - 1966
+
+# Ingrid Bergman #
+Spellbound - 1945
+Stromboli - 1950
+Autumn Sonata - 1978
 
 # Greek Myth #
 Helena - 1924/1956
@@ -179,7 +184,7 @@ Don't Look in the Basement - 1973
 Don't Go in the House - 1979
 
 # Marlon Brando #
-The Wild One - 1953
++The Wild One - 1953
 On the Waterfront - 1954
 Last Tango in Paris - 1972
 
