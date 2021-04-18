@@ -143,10 +143,20 @@ SUMMER WITH MONIKA - 1953
 WILD STRAWBERRIES - 1957
 PERSONA - 1966
 
-# Ingrid Bergman #
-Spellbound - 1945
-Stromboli - 1950
-Autumn Sonata - 1978
+# INGRID BERGMAN #
+SPELLBOUND - 1945
+STROMBOLI - 1950
+AUTUMN SONATA - 1978
+
+# Judy Garland #
+For Me and My Gal - 1942
+Meet Me in St. Louis - 1944
+Judgment at Nuremberg - 1961
+
+# Vittorio De Sica #
+Bicycle Thieves - 1948
+Umberto D. - 1952
+Il Generale Della Rovere - 1959
 
 # Greek Myth #
 Helena - 1924/1956
@@ -184,7 +194,7 @@ Don't Look in the Basement - 1973
 Don't Go in the House - 1979
 
 # Marlon Brando #
-+The Wild One - 1953
+The Wild One - 1953
 On the Waterfront - 1954
 Last Tango in Paris - 1972
 
@@ -327,11 +337,6 @@ Rasputin: The Mad Monk - 1966
 Planet of the Apes - 1968
 Nicholas and Alexandra - 1971
 Papillon - 1973
-
-# Judy Garland #
-For Me and My Gal - 1942
-Meet Me in St. Louis - 1944
-Judgment at Nuremberg - 1961
 
 # James Dean #
 East of Eden - 1955
@@ -568,11 +573,6 @@ Black Peter - 1964
 The Loves of a Blonde - 1965
 The Firemen's Ball - 1967
 Taking Off - 1971
-
-# Vittorio De Sica #
-Bicycle Thieves - 1948
-Umberto D. - 1952
-Il Generale Della Rovere - 1959
 
 # Georges Franju #
 Head Against the Wall - 1959
@@ -1110,8 +1110,35 @@ Cruel Story of Youth - 1960
 Violence at Noon - 1966
 Boy - 1969
 
+# John Huston #
+The Maltese Falcon - 1941
+In This Our Life - 1942
+Across the Pacific - 1942
 
+# John Huston II #
+The Treasure of the Sierra Madre - 1948
+Key Largo - 1948
+The Asphalt Jungle - 1950
 
+# John Huston III #
+The Red Badge of Courage - 1951
+Moulin Rouge - 1952
+Beat the Devil - 1953
+
+# John Huston IV #
+Moby Dick - 1956
+Heaven Knows, Mr. Allison - 1957
+The Misfits - 1961
+
+# John Huston V #
+Freud - 1962
+The List of Adrian Messenger - 1963
+The Kremlin Letter - 1970
+
+# John Huston VI #
+The Life and Times of Judge Roy Bean - 1972
+Fat City - 1972
+The Man Who Would Be King - 1975
 
 
 
