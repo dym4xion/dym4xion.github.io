@@ -148,10 +148,20 @@ SPELLBOUND - 1945
 STROMBOLI - 1950
 AUTUMN SONATA - 1978
 
-# Judy Garland #
-Meet Me in St. Louis - 1944
-Judgment at Nuremberg - 1961
-Gay Purr-ee - 1962
+# JUDY GARLAND #
+MEET ME IN ST. LOUIS - 1944
+JUDGMENT AT NUREMBERG - 1961
+GAY PURR-EE - 1962
+
+# INDEFINITE HIATUS #
+WALKING THE STREETS OF MOSCOW - 1964
+THE COLOR OF POMEGRANATES - 1969
+UNBELIEVABLE ADVENTURES OF ITALIANS IN RUSSIA - 1974
+
+# Shurik Trilogy #
+Operation Y and Shurik’s Other Adventures - 1965
+Kidnapping, Caucasian Style - 1967
+Ivan Vasilyevich: Back to the Future - 1973
 
 # Vittorio De Sica #
 Bicycle Thieves - 1948
@@ -791,7 +801,7 @@ The Fugitive Kind - 1960
 The Young One - 1960 
 
 # Leonid Gaidai #
-Operation Y and Shurik’s Other Adventures - 1965
+
 Business People - 1963
 Borrowing Matchsticks - 1980
 
@@ -801,7 +811,7 @@ The Life of Emile Zola - 1937
 You Can't Take It with You - 1938
 
 # Russia Beyond Top 100 Films III #
-Alexander Nevsky - 1938
+
 The Very Same Munchhausen - 1980
 White Bim Black Ear - 1977
 
@@ -1003,7 +1013,6 @@ The War at Sea from Hawaii to Malaya - 1942
 # Sergei Parajanov #
 Andreish - 1954
 Shadows of Forgotten Ancestors - 1965
-The Color of Pomegranates - 1969
 
 # Robert Bresson #
 Diary of a Country Priest - 1951
@@ -1057,8 +1066,7 @@ History Lesson - 1957
 
 # Eldar Ryazanov #
 Watch Out for the Automobile - 1966
-Unbelievable Adventures of Italians in Russia - 1974
-Office Romance - 1977
+
 
 # Mauro Bolognini #
 Bell'Antonio - 1960
@@ -2038,7 +2046,7 @@ Around the World in 80 Days - 1956
 
 # Russia Beyond Top 100 Films X #
 Gentlemen of Fortune - 1971
-Walking the Streets of Moscow - 1964
+
 The Garage - 1979
 
 # BFI Best Japanese Films of Each Year XIII #
@@ -2197,7 +2205,7 @@ Funeral Parade of Roses - 1969
 Eros + Massacre - 1970
 
 # Russia Beyond Top 100 Films XI #
-Ivan Vasilyevich: Back to the Future - 1973
+
 Officers - 1971
 Welcome, or No Trespassing - 1964
 
@@ -2372,7 +2380,7 @@ Battles without Honour and Humanity - 1973
 # Russia Beyond Top 100 Films XII #
 Ballad of a Soldier - 1959
 The Girls - 1961
-Kidnapping, Caucasian Style - 1967
+
 
 
 
